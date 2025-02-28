@@ -1,13 +1,13 @@
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: Arial, comic-sans; /*define la fuente (font-family) */
+    background-color: rgb(50,175,90); /* define los colores usando RGB(Rojo,Verde,Azul) */
 }
 
 /* Header Styles */
 h1 {
-    color: #333;
-    text-align: center;
+    color: #333; /*define el color usando "color" */
+    text-align: center; /*alinea el texto, en este caso, hacia el centro*/
 }
 
 /* Paragraph Styles */
